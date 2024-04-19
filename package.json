@@ -4,7 +4,7 @@
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
-    "server": "json-server --watch db.json",
+    "server": "json-server --watch db.json --static ./src/",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web"

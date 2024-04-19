@@ -27,8 +27,9 @@ export default function Login() {
       setError("Credenciais inválidas");
       setEmail("");
       setPassword("");
+      return;
     }
-    navigation.navigate("Home", { username: credentialsEmail });
+    navigation.navigate("TabRoutes");
   }
 
   return (

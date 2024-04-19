@@ -1,129 +1,139 @@
-{"exercicios":[
-    {
-        "id":1,
-        "nome": "Levantamento terra",
-        "categoria": "Perna",
-        "dificuldade": "Difícil",
-        "descricao":"O pão com manteiga de inúmeras rotinas de treino, este movimento, se feito corretamente, envolverá predominantemente as costas e as pernas, enquanto constrói força geral para todo o corpo",
-        "imagens": "LevantamentoTerra.jpg",
-        "videos": "https://www.youtube.com/watch?v=0Et5echrei8"
-    },
-    {
-        "id":2,
-        "nome": "Puxada alta na polia",
-        "categoria": "Costas",
-        "dificuldade": "Média",
-        "descricao": "Esse exercício tradicional não apenas fortalece o meio e a parte superior das costas, mas também trabalha os ombros, bíceps e antebraços.",
-        "imagens": "PuxadaAltaNaPolia.jpg",
-        "videos": "https://www.youtube.com/watch?v=fTHAYNVdBfE"
-    },
-    {
-        "id":3,
-        "nome": "Rosca com halteres no banco inclinado",
-        "categoria": "Braços",
-        "dificuldade": "Média",
-        "descricao": "Ficar sentado durante o Bíceps Curl pode parecer apenas um pequeno ajuste, mas acredite, seus braços estão trabalhando mais com esse movimento. Sente-se em um banco ajustável entre 45 e 60 graus para o efeito ideal.",
-        "imagens": "RoscaComHalteresNoBancoInclinado.jpg",
-        "videos": "https://www.youtube.com/watch?v=Os0CbdSre6I"
-    },
-    {
-        "id":4,
-        "nome": "Elevações laterais com halteres",
-        "categoria": "Ombros",
-        "dificuldade": "Média",
-        "descricao": "Este exercício clássico fortalece todo o ombro com ênfase nas laterais dos músculos deltóides. Você deve priorizar a forma e o movimento em vez do peso e, para isolar ainda mais os ombros, pode se concentrar em apenas um braço por vez.",
-        "imagens": "ElevaçõesLateraisComHalteres.jpg",
-        "videos": "https://www.youtube.com/watch?v=lj114PlX_Jk"
-    },
-    {
-        "id":5,
-        "nome": "Desenvolvimento",
-        "categoria": "Ombros",
-        "dificuldade": "Fácil",
-        "descricao": "O desenvolvimento sobre a cabeça é a melhor maneira de mover grandes quantidades de peso e aumentar a força dos ombros. Existem também várias maneiras de fazê-lo, todas com suas próprias vantagens distintas: com barras ou halteres, em pé ou sentado.",
-        "imagens": "Desenvolvimento.jpg",
-        "videos": "https://www.youtube.com/watch?v=jvDnLuxaLRs"
-    },
-    {
-        "id":6,
-        "nome": "Supino com barra",
-        "categoria": "Peito",
-        "dificuldade": "Fácil",
-        "descricao": "Se você quer ficar plano, inclinado ou declinado, o banco é o rei dos exercícios de peito. Na verdade, você deve usar todos os diferentes ângulos de banco disponíveis em sua academia – afinal, nenhum peitoral perfeito foi construído apenas usando um banco plano. Mas lembre-se de nunca sacrificar a forma pelo peso. ",
-        "imagens": "SupinoReto.jpg",
-        "videos": "https://www.youtube.com/watch?v=vIGvt-vgrvY"
-    },
-    {
-        "id":7,
-        "nome": "Crucifixo",
-        "categoria": "Peito",
-        "dificuldade": "Média",
-        "descricao": "O crucifixo, seja na máquina ou feito no banco inclinado, é uma maneira poderosa de ativar o peitoral. Se for fazer no banco, coloque uma inclinação de não mais que 45 graus, pegue alguns halteres moderadamente pesados e levante.E, mais uma vez: não se trata de pegar halteres pesados, trata-se de manter a forma adequada e amplitude de movimento.",
-        "imagens": "CrucifixoRetoComHalteres.jpg",
-        "videos": "https://www.youtube.com/watch?v=_kpKlYexyXs"
-    },
-    {
-        "id":8,
-        "nome": "Flexão de pernas",
-        "categoria": "Perna",
-        "dificuldade": "Fácil",
-        "descricao": "Quando se trata de isolar os isquiotibiais, as flexões de perna são um dos melhores movimentos para o desenvolvimento total. Quer você opte por flexões de pernas sentadas (na cadeira flexora) ou flexões de pernas deitadas, você sentirá alguma dor.",
-        "imagens": "FlexaoDePernas.jpg",
-        "videos": "https://www.youtube.com/watch?v=yiPqK5WMcNw"
-    },
-    {
-        "id":9,
-        "nome": "flexões de diamante",
-        "categoria": "Braços",
-        "dificuldade": "Média",
-        "descricao": "Mude seu foco para o tríceps com esta variação de flexão. Ao manter as mãos mais próximas, o tríceps fica sob mais tensão, resultando em um treino maior.",
-        "imagens": "FlexãoDiamante.jpg",
-        "videos": "https://www.youtube.com/watch?v=jwRSFjL69Zs"
-    },
-    {
-        "id":10,
-        "nome": "Extensão das pernas",
-        "categoria": "Perna",
-        "dificuldade": "Fácil",
-        "descricao": "As extensões de perna são essenciais na rotina de qualquer pessoa e por um bom motivo. Eles sobrecarregam seus quadríceps e pequenas variações podem ajudá-lo a atingir todos os ângulos. Faça na cadeira extensora.",
-        "imagens": "ExtençãoDasPernas.jpg",
-        "videos": "https://www.youtube.com/watch?v=v5WFzIqcl1A"
-    },
-    {
-        "id":11,
-        "nome": "Elevação da panturrilha",
-        "categoria": "Perna",
-        "dificuldade": "Fácil",
-        "descricao": "Você pode fazer em uma máquina, com uma barra ou apenas com seu peso corporal, mas incluir esse exercício é essencial, já que ele isola os músculos da panturrilha para torná-los maiores e mais fortes e ajudar a bombear o sangue de forma mais eficaz para o corpo.",
-        "imagens": "ElevaçãoDaPanturrilha.jpg",
-        "videos": "https://www.youtube.com/watch?v=cklp_Xh5V8M"
-    },
-    {
-        "id":12,
-        "nome": "Agachamento",
-        "categoria": "Perna",
-        "dificuldade": "Difícil",
-        "descricao": "O agachamento é um dos movimentos compostos mais básicos e fundamentais para se ter em seu arsenal. O agachamento com barra é o clássico, entretanto, há muitas variações para atender às suas preferências ou limitações.",
-        "imagens": "Agachamento.jpg",
-        "videos": "https://www.youtube.com/watch?v=4D-ZGYFUxyM"
-    },
-    {
-        "id":13,
-        "nome": "Agachamento búlgaro",
-        "categoria": "Perna",
-        "dificuldade": "Difícil",
-        "descricao": "Os agachamentos búlgaros são difíceis. Você pode não ser capaz de aumentar muito o peso para eles, mas depois de acertar o equilíbrio envolvido neste exercício, pode ser a chave para uma coxa grande e glúteos levantados.",
-        "imagens": "AgachamentoBúlgaro.jpg",
-        "videos": "https://www.youtube.com/watch?v=a3-bQbTdA_0"
-    },
-    {
-        "id":14,
-        "nome": "Prancha",
-        "categoria": " Abdômen",
-        "dificuldade": "Média",
-        "descricao": "Sim, você tem que treinar o abdômen. As pranchas são um movimento de fortalecimento do núcleo que nunca envelhece e existem variações infinitas para atingir todos os ângulos da região e aumentar o equilíbrio, enquanto, fortalece os músculos auxiliares da coluna vertebral.",
-        "imagens": "Prancha.jpg",
-        "videos": "https://www.youtube.com/watch?v=h8RiGL-gPgg"
-    }
-]
+{
+    "exercicios": [
+        {
+            "id": 1,
+            "nome": "Levantamento terra",
+            "categoria": "Perna",
+            "dificuldade": "Dificuldade Difícil",
+            "descricao": "O pão com manteiga de inúmeras rotinas de treino, este movimento, se feito corretamente, envolverá predominantemente as costas e as pernas, enquanto constrói força geral para todo o corpo",
+            "imagens": "LevantamentoTerra.jpg",
+            "videos": "https://www.youtube.com/watch?v=0Et5echrei8"
+        },
+        {
+            "id": 2,
+            "nome": "Puxada alta na polia",
+            "categoria": "Costas",
+            "dificuldade": "Dificuldade Média",
+            "descricao": "Esse exercício tradicional não apenas fortalece o meio e a parte superior das costas, mas também trabalha os ombros, bíceps e antebraços.",
+            "imagens": "PuxadaAltaNaPolia.jpg",
+            "videos": "https://www.youtube.com/watch?v=fTHAYNVdBfE"
+        },
+        {
+            "id": 3,
+            "nome": "Rosca com halteres no banco inclinado",
+            "categoria": "Braços",
+            "dificuldade": "Dificuldade Média",
+            "descricao": "Ficar sentado durante o Bíceps Curl pode parecer apenas um pequeno ajuste, mas acredite, seus braços estão trabalhando mais com esse movimento. Sente-se em um banco ajustável entre 45 e 60 graus para o efeito ideal.",
+            "imagens": "RoscaComHalteresNoBancoInclinado.jpg",
+            "videos": "https://www.youtube.com/watch?v=Os0CbdSre6I"
+        },
+        {
+            "id": 4,
+            "nome": "Elevações laterais com halteres",
+            "categoria": "Ombros",
+            "dificuldade": "Dificuldade Média",
+            "descricao": "Este exercício clássico fortalece todo o ombro com ênfase nas laterais dos músculos deltóides. Você deve priorizar a forma e o movimento em vez do peso e, para isolar ainda mais os ombros, pode se concentrar em apenas um braço por vez.",
+            "imagens": "ElevaçõesLateraisComHalteres.jpg",
+            "videos": "https://www.youtube.com/watch?v=lj114PlX_Jk"
+        },
+        {
+            "id": 5,
+            "nome": "Desenvolvimento",
+            "categoria": "Ombros",
+            "dificuldade": "Dificuldade Fácil",
+            "descricao": "O desenvolvimento sobre a cabeça é a melhor maneira de mover grandes quantidades de peso e aumentar a força dos ombros. Existem também várias maneiras de fazê-lo, todas com suas próprias vantagens distintas: com barras ou halteres, em pé ou sentado.",
+            "imagens": "Desenvolvimento.jpg",
+            "videos": "https://www.youtube.com/watch?v=jvDnLuxaLRs"
+        },
+        {
+            "id": 6,
+            "nome": "Supino com barra",
+            "categoria": "Peito",
+            "dificuldade": "Dificuldade Fácil",
+            "descricao": "Se você quer ficar plano, inclinado ou declinado, o banco é o rei dos exercícios de peito. Na verdade, você deve usar todos os diferentes ângulos de banco disponíveis em sua academia – afinal, nenhum peitoral perfeito foi construído apenas usando um banco plano. Mas lembre-se de nunca sacrificar a forma pelo peso. ",
+            "imagens": "SupinoReto.jpg",
+            "videos": "https://www.youtube.com/watch?v=vIGvt-vgrvY"
+        },
+        {
+            "id": 7,
+            "nome": "Crucifixo",
+            "categoria": "Peito",
+            "dificuldade": "Dificuldade Média",
+            "descricao": "O crucifixo, seja na máquina ou feito no banco inclinado, é uma maneira poderosa de ativar o peitoral. Se for fazer no banco, coloque uma inclinação de não mais que 45 graus, pegue alguns halteres moderadamente pesados e levante.E, mais uma vez: não se trata de pegar halteres pesados, trata-se de manter a forma adequada e amplitude de movimento.",
+            "imagens": "CrucifixoRetoComHalteres.jpg",
+            "videos": "https://www.youtube.com/watch?v=_kpKlYexyXs"
+        },
+        {
+            "id": 8,
+            "nome": "Flexão de pernas",
+            "categoria": "Perna",
+            "dificuldade": "Dificuldade Fácil",
+            "descricao": "Quando se trata de isolar os isquiotibiais, as flexões de perna são um dos melhores movimentos para o desenvolvimento total. Quer você opte por flexões de pernas sentadas (na cadeira flexora) ou flexões de pernas deitadas, você sentirá alguma dor.",
+            "imagens": "FlexaoDePernas.jpg",
+            "videos": "https://www.youtube.com/watch?v=yiPqK5WMcNw"
+        },
+        {
+            "id": 9,
+            "nome": "flexões de diamante",
+            "categoria": "Braços",
+            "dificuldade": "Dificuldade Média",
+            "descricao": "Mude seu foco para o tríceps com esta variação de flexão. Ao manter as mãos mais próximas, o tríceps fica sob mais tensão, resultando em um treino maior.",
+            "imagens": "FlexãoDiamante.jpg",
+            "videos": "https://www.youtube.com/watch?v=jwRSFjL69Zs"
+        },
+        {
+            "id": 10,
+            "nome": "Extensão das pernas",
+            "categoria": "Perna",
+            "dificuldade": "Dificuldade Fácil",
+            "descricao": "As extensões de perna são essenciais na rotina de qualquer pessoa e por um bom motivo. Eles sobrecarregam seus quadríceps e pequenas variações podem ajudá-lo a atingir todos os ângulos. Faça na cadeira extensora.",
+            "imagens": "ExtençãoDasPernas.jpg",
+            "videos": "https://www.youtube.com/watch?v=v5WFzIqcl1A"
+        },
+        {
+            "id": 11,
+            "nome": "Elevação da panturrilha",
+            "categoria": "Perna",
+            "dificuldade": "Dificuldade Fácil",
+            "descricao": "Você pode fazer em uma máquina, com uma barra ou apenas com seu peso corporal, mas incluir esse exercício é essencial, já que ele isola os músculos da panturrilha para torná-los maiores e mais fortes e ajudar a bombear o sangue de forma mais eficaz para o corpo.",
+            "imagens": "ElevaçãoDaPanturrilha.jpg",
+            "videos": "https://www.youtube.com/watch?v=cklp_Xh5V8M"
+        },
+        {
+            "id": 12,
+            "nome": "Agachamento",
+            "categoria": "Perna",
+            "dificuldade": "Dificuldade Difícil",
+            "descricao": "O agachamento é um dos movimentos compostos mais básicos e fundamentais para se ter em seu arsenal. O agachamento com barra é o clássico, entretanto, há muitas variações para atender às suas preferências ou limitações.",
+            "imagens": "Agachamento.jpg",
+            "videos": "https://www.youtube.com/watch?v=4D-ZGYFUxyM"
+        },
+        {
+            "id": 13,
+            "nome": "Agachamento búlgaro",
+            "categoria": "Perna",
+            "dificuldade": "Dificuldade Difícil",
+            "descricao": "Os agachamentos búlgaros são difíceis. Você pode não ser capaz de aumentar muito o peso para eles, mas depois de acertar o equilíbrio envolvido neste exercício, pode ser a chave para uma coxa grande e glúteos levantados.",
+            "imagens": "AgachamentoBúlgaro.jpg",
+            "videos": "https://www.youtube.com/watch?v=a3-bQbTdA_0"
+        },
+        {
+            "id": 14,
+            "nome": "Prancha",
+            "categoria": " Abdômen",
+            "dificuldade": "Dificuldade Média",
+            "descricao": "Sim, você tem que treinar o abdômen. As pranchas são um movimento de fortalecimento do núcleo que nunca envelhece e existem variações infinitas para atingir todos os ângulos da região e aumentar o equilíbrio, enquanto, fortalece os músculos auxiliares da coluna vertebral.",
+            "imagens": "Prancha.jpg",
+            "videos": "https://www.youtube.com/watch?v=h8RiGL-gPgg"
+        },
+        {
+            "id": 100,
+            "nome": "Agachamento búlgaro",
+            "categoria": "Perna",
+            "dificuldade": "Dificuldade Difícil",
+            "descricao": "Os agachamentos búlgaros são difíceis. Você pode não ser capaz de aumentar muito o peso para eles, mas depois de acertar o equilíbrio envolvido neste exercício, pode ser a chave para uma coxa grande e glúteos levantados.",
+            "imagens": "AgachamentoBúlgaro.jpg",
+            "videos": "https://www.youtube.com/watch?v=a3-bQbTdA_0"
+        }
+    ]
 }
