@@ -9,9 +9,8 @@ export default function Home({ navigation }) {
   useEffect(() => { fetch("http://10.0.2.2:3000/exercicios").then((response) => response.json()).then((data) => setExerciciosData(data)) }, [])
 
 
-
-  const filteredMusic = query ?
-    exerciciosData.filter(item => item.nome.includes(query.toLowerCase()))
+    const filteredMusic = query ?
+    exerciciosData.filter(item => item.nome.toLowerCase().includes(query.toLowerCase()))
     : exerciciosData;
 
 
