@@ -42,6 +42,7 @@ function TabRoutes() {
         name="profile"
         component={Profile}
       />
+      
     </Tab.Navigator>
   );
 }

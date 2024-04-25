@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from "react";
-import { View, Text, StyleSheet, StatusBar, FlatList, TextInput, Image, exerciciosData } from "react-native";
+import { View, Text, StyleSheet, StatusBar, FlatList, TextInput, Image, exerciciosData, ScrollView } from "react-native";
 import Exercicios from "../components/Exercicios";
-
-
 
 export default function Home({ navigation }) {
   const [exerciciosData, setExerciciosData] = useState([]);
@@ -30,9 +28,10 @@ export default function Home({ navigation }) {
         onChangeText={(text) => SetQuery(text)}
       />
       
-      {filteredMusic.map((exerciciosData, index) => (
+      <ScrollView>{filteredMusic.map((exerciciosData, index) => (
           <Exercicios exercicio={exerciciosData}  key={index}/>
       ))}
+      </ScrollView>
     </View>
   );
 }
